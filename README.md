@@ -3,6 +3,6 @@ The template repo for static site generation under Tiddlywiki.
 
 You need to have Tiddlywiki installed under Node.js for this to work.
 
-test3
+test4
 
 More information here: https://www.didaxy.com/exporting-static-sites-from-tiddlywiki
